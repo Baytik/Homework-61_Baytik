@@ -27,7 +27,6 @@ class Countries extends Component {
     };
 
     render() {
-        console.log(this.state.borders);
         return (
             <Fragment>
                 <div className="Countries">
